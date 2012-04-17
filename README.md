@@ -1,10 +1,11 @@
 #Issues for the commandline
 
-`cronk --add "Man, you gotta fix this"`
+```sh
+cronk --add "Man, you gotta fix this"
 
-`cronk show`
+cronk show
 
-`cronk --remove 5`
-
+cronk --remove 5
+```
 
 That is all.
